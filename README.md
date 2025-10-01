@@ -53,5 +53,4 @@ online-library-management-system
 - Upon running the application, users can interact with the library system through a console interface.
 - Users can view available books, borrow books, return books, and check their borrowed book list.
 
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.ssss
+
